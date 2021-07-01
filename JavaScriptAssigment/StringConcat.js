@@ -1,0 +1,5 @@
+//Program to display the Sentence "In a <place> not so far away, <person or animal> saw that there was no <thing>."
+var place="farm"
+var animal="rabbit"
+var thing="carrot"
+"In a "+place+" not so far away, "+animal+" saw that there was no "+thing+"."

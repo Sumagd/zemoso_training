@@ -1,0 +1,11 @@
+//Declare 10 books variable and assign the values to the variables
+var book1="Bee in the Hive"
+var book2="The Secret Life of the Art"
+var book3="Laptops.Not just for Breakfast Anymore"
+var book4="If I were a Superhero"
+var book5="Once Upon a Time in Rabbit Hole"
+var book6="T"
+var book7="In the memory of the last slice of pizza"
+var book8="who stole second base?"
+var book9="2010.The Coding Odyssey"
+var book10="The End"
