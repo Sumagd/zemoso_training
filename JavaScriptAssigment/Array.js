@@ -15,3 +15,4 @@ books.push(answer)
 answer=prompt("What is your 6st favorite book")
 books.unshift(answer)
 books.pop(answer)
+books
