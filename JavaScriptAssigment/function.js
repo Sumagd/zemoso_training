@@ -1,15 +1,15 @@
 /*This Program is to build a simple app that calculates the amount of change or money back 
 due to the user after purchasing an item.*/
-var amount=prompt("Hi,Your Purchase cost is 5000rs,Please enter the amount that you are paying")
-var purchaseAmount=5000
+var amount=prompt("Hi,Your Purchase cost is $500,Please enter the amount that you are paying")
+var purchaseAmount=500
 var balance
-function changeCalculator(amount)
+function simpleCashier(amount)
 {
      balance=purchaseAmount-amount
-    return balance
+     return balance
 }
-changeCalculator(amount)
-if(balance==0)
+simpleCashier(amount)
+if(balance===0)
 {
     
     console.log("You gave the exact amount")
